@@ -1,1 +1,1 @@
-# Credit_Qualification_Project
+# Credit Qualification Project
